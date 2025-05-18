@@ -14,7 +14,7 @@ A responsive and elegant **Contact Us** form built using **HTML** and **CSS**, p
 
 ## 📸 Screenshot
 
-![Contact Form Screenshot](./images/contact-screenshot.png) 
+![Image](https://github.com/user-attachments/assets/ac07f5a9-211f-42f3-a9a9-98fc56c2d5c0)
 
 ## 📂 File Structure
 
@@ -75,6 +75,4 @@ This form uses **Formspree**:
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Let me know if you'd like badges, deploy instructions (e.g., GitHub Pages), or want to convert this into a React/Vue component!
